@@ -55,6 +55,8 @@ Supported Plugins:
 - [Telescope](https://github.com/nvim-telescope/telescope.nvim)
 - [LSP Diagnostics](https://neovim.io/doc/user/lsp.html)
 - [Nvim Tree](https://github.com/kyazdani42/nvim-tree.lua)
+- [Neo-tree](https://github.com/nvim-neo-tree/neo-tree.nvim)
+- [Oil](https://github.com/stevearc/oil.nvim)
 - [NERDTree](https://github.com/preservim/nerdtree)
 - [Startify](https://github.com/mhinz/vim-startify)
 - [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
